@@ -1,5 +1,7 @@
 ## Venus de Milo Low Polygon Visual Experiment 
 
+<img src="http://carlos.angon.me/github/venus_de_milo_low_poly.png">
+
 This repo uses threejs to create a visual experience. 
 
 ## How to use this repository
@@ -33,4 +35,4 @@ Run these steps using the following commands:
 npm install
 npm start
 ```
-=)
+- C
