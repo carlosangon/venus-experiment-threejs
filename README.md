@@ -26,7 +26,7 @@ This repo contains a `script.js` file with all of the logic to render the model 
 
 The steps to use or view this project are:
 
-1. Install the dependenciees `budo`
+1. Install the dependencies `budo`
 2. Run the project to experience some cool stuff
 
 Run these steps using the following commands:
