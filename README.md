@@ -22,7 +22,7 @@ cd threejs-venus-experiment
 
 ## What's in it?
 
-This repo contains a `script` file with all of the logic to render the model and scene. A copy of `OBJLoader.js` to make use of JSON model. A copy of `OrbitControls.js` to allow manipulation of the camera and `Detector`.
+This repo contains a `script.js` file with all of the logic to render the model and scene. A copy of `OBJLoader.js` to make use of JSON model. A copy of `OrbitControls.js` to allow manipulation of the camera and `Detector`.
 
 The steps to use or view this project are:
 
