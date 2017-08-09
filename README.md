@@ -6,14 +6,14 @@ This repo uses threejs to create a visual experience.
 
 ## How to use this repository
 
-The repository contains all the sources to run the `Venus de Milo` experiement.
+The repository contains all the source files to run the `Venus de Milo` threejs experiement.
 
 
 ```bash
 git clone https://github.com/carlosangon/threejs-venus-experiment
 ```
 
-Alternatively, clone or download the entire repository 
+Alternatively, clone or download the entire repository and play with it.
 
 ```bash
 git clone https://github.com/carlosangon/threejs-venus-experiment
