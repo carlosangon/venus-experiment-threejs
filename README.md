@@ -1,9 +1,9 @@
 ## 🌹 Venus de Milo Low Polygon Visual Experiment
 
-## 💻 <a href="http://carlos.angon.me/experiments/5/" target="_blank">DEMO HERE</a>
+## 💻 <a href="http://angon.me/experiments/5/" target="_blank">DEMO HERE</a>
 
 
-<img src="http://carlos.angon.me/github/venus_de_milo_low_poly.png">
+<img src="http://angon.me/github/venus_de_milo_low_poly.png">
 
 This repo uses threejs to create a visual experience. 
 
